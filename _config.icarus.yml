@@ -8,7 +8,7 @@ logo:
 # Page metadata configurations
 head:
     # URL or path to the website's icon
-    favicon: /img/favicon.svg
+    favicon: /img/favicon.jpg
     # Web application manifests configuration
     # https://developer.mozilla.org/en-US/docs/Web/Manifest
     manifest:
@@ -230,15 +230,15 @@ widgets:
         position: left
         type: profile
         # Author name
-        author: 若流风
+        author: 书爱
         # Author title
         author_title: 修仙者
         # Author's current location
         location: 太阳系第三行星
         # URL or path to the avatar image
-        avatar:
+        avatar: img/avatar.jpg
         # Whether show the rounded avatar image
-        avatar_rounded: false
+        avatar_rounded: true
         # Email address for the Gravatar
         gravatar:
         # URL or path for the follow button
