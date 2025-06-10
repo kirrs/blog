@@ -169,8 +169,8 @@ comment:
     type: gitalk
     client_id: Ov23li7eqsf30UfcwM1S
     client_secret: 2c02b658cf983e807e7c97bc350be6f744b63b78
-    repo: https://github.com/kirrs/blog
-    owner: Kirrs Gool
+    repo: blog
+    owner: kirrs
     admin:
         - Kirrs Gool
     per_page: 20
