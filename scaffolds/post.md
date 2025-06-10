@@ -1,7 +1,7 @@
 ---
 title: {{ title }}
 date: {{ date }}
-cover:
+cover: gallery/covers/xxx.jpg
 author:
   - 书爱
 categories:
