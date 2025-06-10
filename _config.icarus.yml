@@ -172,7 +172,7 @@ comment:
     repo: blog
     owner: kirrs
     admin:
-        - Kirrs Gool
+        - kirrs
     per_page: 20
     distraction_free_mode: false
     pager_direction: last
