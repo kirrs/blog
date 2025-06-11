@@ -42,6 +42,9 @@
             },
             {
                 "$ref": "/widget/followit.json"
+            },
+            {
+                "$ref": "/widget/weixin.json"
             }
         ],
         "required": [

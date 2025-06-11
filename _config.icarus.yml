@@ -271,6 +271,13 @@ widgets:
             # RSS:
             #     icon: fas fa-rss
             #     url: /
+    # Weixin official accounts
+    -
+        # Where should the widget be placed, left sidebar or right sidebar
+        position: right
+        type: weixin
+        icon: gallery/qrcode/weixin-official-accounts.jpg
+        name: '书爱'
     # Table of contents widget configurations
     -
         # Where should the widget be placed, left sidebar or right sidebar
