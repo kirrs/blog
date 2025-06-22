@@ -3,9 +3,9 @@
 ## Source: https://github.com/hexojs/hexo/
 
 # Site
-title: 心怀诗意
+title: 少年心气盛
 subtitle: 'Blog'
-description: '心怀诗意'
+description: '少年心气盛'
 keywords:
 author: 书爱
 language: zh-CN
@@ -108,3 +108,7 @@ deploy:
   type: 'git'
   repo: https://github.com/kirrs/blog
   branch: gh-pages
+
+inject111:
+    head:
+        - <link rel="stylesheet" href="/css/admonition.css111">
